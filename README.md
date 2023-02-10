@@ -1,16 +1,2 @@
-# random_people_data_app
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_2023-02-06-14-12-40-85_f0eec987eaa632090a69ea77a167114e](https://user-images.githubusercontent.com/121867953/218047138-20277dce-a501-4318-a298-ccba9460aab9.jpg)
+![image](https://user-images.githubusercontent.com/121867953/218047323-ae23752c-f009-46fe-961a-8c6f0945c7e0.png)
